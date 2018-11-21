@@ -347,6 +347,12 @@ input, select, textarea {
 		width: 70em;
 	}
 
+	.epic{
+		height: 30em;
+		width: 40em;
+		margin-left: 25%;
+	}
+
 /* Row */
 
 	.row {

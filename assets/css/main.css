@@ -337,6 +337,16 @@ input, select, textarea {
 		margin-left: 25%;
 	}
 
+	.imagenes {
+		height: 100em;
+		width: 70em;
+	}
+
+	.envoy {
+		height: 20em;
+		width: 70em;
+	}
+
 /* Row */
 
 	.row {

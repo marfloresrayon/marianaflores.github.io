@@ -167,6 +167,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
+		text-align: justify;
 	}
 
 	h1 {
@@ -317,6 +318,23 @@ input, select, textarea {
 
 	.upgrade {
 		margin-top: 1em;
+	}
+
+	.cutout {
+		height: 13em;
+		width: 20em;
+	}
+
+	.imagen {
+		height: 30em;
+		width: 30em;
+		margin-left: 25%;
+	}
+
+	.imagenn { 
+		height: 20em;
+		width: 30em;
+		margin-left: 25%;
 	}
 
 /* Row */

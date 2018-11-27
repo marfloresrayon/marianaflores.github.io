@@ -328,13 +328,11 @@ input, select, textarea {
 	.imagen {
 		height: 30em;
 		width: 30em;
-		margin-left: 25%;
 	}
 
 	.imagenn { 
 		height: 20em;
 		width: 30em;
-		margin-left: 25%;
 	}
 
 	.imagenes {
@@ -350,7 +348,11 @@ input, select, textarea {
 	.epic{
 		height: 30em;
 		width: 40em;
-		margin-left: 25%;
+	}
+
+	.responsiva {
+		width: 100%;
+		height: auto;
 	}
 
 /* Row */

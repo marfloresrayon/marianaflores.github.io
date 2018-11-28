@@ -355,6 +355,14 @@ input, select, textarea {
 		height: auto;
 	}
 
+	.profile {
+		width: 35%;
+		height: 35%;
+	}
+
+	.enfasis {
+		font-size: 150%;
+	}
 /* Row */
 
 	.row {
